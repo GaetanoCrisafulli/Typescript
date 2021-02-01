@@ -1,0 +1,112 @@
+[
+  {
+    "bankId": 1,
+    "bankName": "Banca di CiccioGamer89",
+    "commissionFee": 1.5,
+    "bankBudget": 6,
+    "bankClients": [
+      {
+        "bankId": 1,
+        "userId": 1,
+        "name": "Mirko",
+        "surname": "Alessandrini",
+        "balance": 3344
+      }
+    ],
+    "transactionList": [
+      {
+        "transactionId": 0,
+        "userId": 1,
+        "transactionType": "sent",
+        "howMuch": 250
+      },
+      {
+        "transactionId": 1,
+        "userId": 1,
+        "transactionType": "received",
+        "howMuch": 350
+      },
+      {
+        "transactionId": 2,
+        "userId": 1,
+        "transactionType": "sent",
+        "howMuch": 250
+      }
+    ]
+  },
+  {
+    "bankId": 2,
+    "bankName": "Banca di Homyatol",
+    "commissionFee": 1.7,
+    "bankBudget": 1.7,
+    "bankClients": [
+      {
+        "bankId": 2,
+        "userId": 1,
+        "name": "Andrea",
+        "surname": "Hakimi",
+        "balance": 4648.3
+      }
+    ],
+    "transactionList": [
+      {
+        "transactionId": 0,
+        "userId": 1,
+        "transactionType": "received",
+        "howMuch": 250
+      },
+      {
+        "transactionId": 1,
+        "userId": 1,
+        "transactionType": "sent",
+        "howMuch": 350
+      },
+      {
+        "transactionId": 2,
+        "userId": 1,
+        "transactionType": "received",
+        "howMuch": 250
+      }
+    ]
+  },
+  {
+    "bankId": 3,
+    "bankName": "Banca di Panetty",
+    "commissionFee": 2.5,
+    "bankBudget": 0,
+    "bankClients": [
+      {
+        "bankId": 3,
+        "userId": 1,
+        "name": "Simone",
+        "surname": "Panetti",
+        "balance": 4000
+      }
+    ],
+    "transactionList": []
+  },
+  {
+    "bankId": 4,
+    "bankName": "Banca di prova",
+    "commissionFee": 2.7,
+    "bankBudget": 0,
+    "bankClients": [],
+    "transactionList": []
+  },
+  {
+    "bankId": 5,
+    "bankName": "Banca di prova2",
+    "commissionFee": 2.7,
+    "bankBudget": 0,
+    "bankClients": [],
+    "transactionList": []
+  },
+  {
+    "bankId": 6,
+    "bankName": "Banca di prova3",
+    "commissionFee": 2.7,
+    "bankBudget": 0,
+    "bankClients": [],
+    "transactionList": []
+  }
+]
